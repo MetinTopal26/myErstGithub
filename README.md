@@ -1,0 +1,2 @@
+# myerstGithub
+deneme kodlari
